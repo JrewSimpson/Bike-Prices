@@ -111,4 +111,4 @@ This program demonstrates the use of variables, boolean functions, and condition
                    $"Electric Bike?: {_isElectric.ToString()} {Environment.NewLine}";
         }
     }
-}
+    }
