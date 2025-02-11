@@ -10,10 +10,11 @@ This program demonstrates the use of variables, boolean functions, and condition
 - <b>Visual Studio 2022</b> 
 
 
+<h2>Screenshot:</h2>
 <img src="https://github.com/JrewSimpson/Bike-Prices/blob/08f118876401aa3db27946238f90dbfeec953561/Bike%20Example.JPG" height="80%" width="80%" alt="]"/>
 
+<h2>Code:</h2>
 
-    Code:
     using System;
     using System.Collections.Generic;
     using System.Linq;
